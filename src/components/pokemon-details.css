@@ -1,0 +1,15 @@
+.pokemon-details {
+  margin: auto;
+  width: 85%;
+}
+
+.pokemon-habitat {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.favorite-form {
+  margin: 20px;
+}

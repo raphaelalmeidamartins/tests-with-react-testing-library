@@ -1,0 +1,9 @@
+.favorite-pokemons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.favorite-pokemon {
+  margin: 20px;
+}

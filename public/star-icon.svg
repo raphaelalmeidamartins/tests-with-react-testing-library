@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  _SVGFile__filename="oldscale/actions/14_star.svg"
+  sodipodi:docbase="/home/danny/work/icons/primary/scalable/actions"
+  sodipodi:docname="14_star.svg"
+  sodipodi:version="0.32"
+  version="1.0"
+  viewBox="0 0 60 60"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+>
+  <sodipodi:namedview
+    bordercolor="#666666"
+    borderopacity="1.0"
+    pagecolor="#ffffff"
+  />
+  <path
+    d="m49.604 49.604l-16.32-5.534-13.811 10.306 0.221-17.231-14.07-9.95 16.456-5.115 5.115-16.456 9.95 14.07 17.231-0.221-10.306 13.811 5.534 16.32z"
+    fill="none"
+    stroke="#fff"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="10"
+  />
+  <path
+    d="m49.604 49.604l-16.32-5.534-13.811 10.306 0.221-17.231-14.07-9.95 16.456-5.115 5.115-16.456 9.95 14.07 17.231-0.221-10.306 13.811 5.534 16.32z"
+    fill="#ffe940"
+    fill-rule="evenodd"
+    stroke="#000"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="5"
+  />
+</svg>
