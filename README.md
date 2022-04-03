@@ -6,6 +6,10 @@ React testing project developed by [Raphael Martins](https://www.linkedin.com/in
 
 We had to implement integration and unit tests with React Testing Library to a React project that was already developed.
 
+## :man_technologist: Developed Skills
+
+* Implement integration and unit tests to a React application by using React Testing Library
+
 ## :hammer_and_wrench: Tools
 
 * React.js
