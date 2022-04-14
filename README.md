@@ -18,40 +18,6 @@ We had to implement integration and unit tests with React Testing Library to a R
 * Stryker Mutator
 * JavaScript ES6+
 
-## Installation
-
-### **1 -** Clone the repository
-
-```sh
-git clone git@github.com:raphaelalmeidamartins/react-testing-library.git
-```
-
-### **2 -** Enter the project folder
-
-```sh
-cd react-testing-library
-```
-
-### **3 -** Install the dependencies
-
-```sh
-npm install
-```
-
-### **4 -** Check the tests coverage
-
-```sh
-npm run test-coverage
-```
-
-### **5 -** Check the Stryker Mutator tests
-
-The Stryker files can be found at `./stryker/`
-
-```sh
-npx stryker run <path-to-file>
-```
-
 ## :test_tube: Tests coverage
 
 ![Tests coverage percent - Porcentagem de cobertura dos testes](./imgs/coverage.png)
