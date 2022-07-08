@@ -20,6 +20,29 @@ We had to implement integration and unit tests with React Testing Library to a R
 * Stryker Mutator
 * JavaScript ES6+
 
+## Installation and Execution/Instalção e execução
+
+### 1 - Clone the repository
+```sh
+git clone git@github.com:raphaelalmeidamartins/store-manager.git
+```
+### 2 - Install the dependencies and run the application
+
+Installing dependencies:
+```sh
+npm install
+```
+
+Running application:
+```sh
+npm start
+```
+
+### 3 - Check test coverage
+```sh
+npm run test-coverage
+```
+
 ## :test_tube: Tests coverage
 
 ![Tests coverage percent - Porcentagem de cobertura dos testes](./imgs/coverage.png)
