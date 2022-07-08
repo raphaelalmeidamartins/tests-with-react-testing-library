@@ -20,7 +20,7 @@ We had to implement integration and unit tests with React Testing Library to a R
 * Stryker Mutator
 * JavaScript ES6+
 
-## Installation and Execution/Instalção e execução
+## :hammer_and_wrench: Installation and Execution/Instalção e execução
 
 ### 1 - Clone the repository
 ```sh
