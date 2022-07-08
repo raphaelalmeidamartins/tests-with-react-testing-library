@@ -1,5 +1,7 @@
 # :test_tube: Tests with React Testing Library  :alembic:
 
+![cover](./imgs/cover.png)
+
 ## :page_with_curl: About
 
 React testing project developed by [Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/) at the end of Unit 14 ([Front-end Development Module](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/2_Desenvolvimento-Front-end)) of Trybe's Web Development course. I was approved with 100% of the mandatory and optional requirements met.
